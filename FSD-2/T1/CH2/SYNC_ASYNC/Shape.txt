@@ -1,0 +1,1 @@
+[{"name":"Square","side":5},{"name":"Circle","side":5}]{"circleperameter":31.400000000000002,"squareside":20}
