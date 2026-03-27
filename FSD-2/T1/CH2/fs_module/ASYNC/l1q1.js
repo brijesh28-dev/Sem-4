@@ -1,4 +1,4 @@
-const { error } = require("console");
+
 var fs=require("fs")
 fs.writeFile("l1q1.txt","How R U",(error)=>{
     if(error) throw error;
